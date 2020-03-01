@@ -1,7 +1,5 @@
 # Virtual-to-Real Mirrors/Windows (V2R)
 
- 
-
 Code for our paper: 
 
 **"Keep It Real: a Window to Real Reality in Virtual Reality"** 
@@ -44,7 +42,6 @@ If you find this work helpful, please try the models out and cite our work. Than
 
   
 
-
 ## Tasks
 
 * Feature detection for mirror location to be projected in virtual space
@@ -60,3 +57,17 @@ If you find this work helpful, please try the models out and cite our work. Than
 * numpy 
 
 
+
+## Example videos of this augmented reality app
+
+![](./asset/vid_2.gif "")
+
+![](./asset/vid_3.gif "")
+
+![](./asset/vid_4.gif "")
+
+![](./asset/vid_8.gif "")
+
+![](./asset/vid_1.gif "")
+
+![](./asset/vid_7.gif "")
