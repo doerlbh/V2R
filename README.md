@@ -33,14 +33,21 @@ by Baihan Lin, Jan 2020
 
 If you find this work helpful, please try the models out and cite our work. Thanks!
 
-    @article{lin2020keep,
+    @inproceedings{lin2020keep,
       title={{Keep It Real: a Window to Real Reality in Virtual Reality}},
       author={Lin, Baihan},
-      journal={under review},
-      year={2020}
+      booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on
+                   Artificial Intelligence, {IJCAI-20}},
+      publisher = {International Joint Conferences on Artificial Intelligence Organization},             
+      pages     = {},
+      year      = {2020},
+      month     = {7},
+      doi       = {},
+      url       = {},
     }
 
   
+
 
 ## Tasks
 
