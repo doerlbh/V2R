@@ -1,6 +1,6 @@
 # Virtual-to-Real Mirrors/Windows (V2R)
 
-Code for our paper: 
+Code for our *IJCAI 2020 demo* paper: 
 
 **"Keep It Real: a Window to Real Reality in Virtual Reality"** 
 
