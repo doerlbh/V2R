@@ -1,12 +1,14 @@
 # Virtual-to-Real Mirrors/Windows (V2R)
 
-Code for our *IJCAI 2020 demo* paper: 
+Code for our *IJCAI 2020 demo track* paper: 
 
 **"Keep It Real: a Window to Real Reality in Virtual Reality"** 
 
 by [Baihan Lin](http://www.columbia.edu/~bl2681/) (Columbia). 
 
 
+
+For the latest full paper: https://arxiv.org/abs/2004.10313
 
 All the experimental results and analysis can be reproduced using the code in this repository. Feel free to contact me by doerlbh@gmail.com if you have any question about our work.
 
@@ -47,6 +49,8 @@ If you find this work helpful, please try the models out and cite our work. Than
     }
 
   
+
+
 
 
 ## Tasks
