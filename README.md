@@ -53,6 +53,7 @@ If you find this work helpful, please try the models out and cite our work. Than
 
 
 
+
 ## Tasks
 
 * Feature detection for mirror location to be projected in virtual space
@@ -75,7 +76,7 @@ If you find this work helpful, please try the models out and cite our work. Than
 
 ![](./asset/vid_3.gif "")
 
-![](./asset/vid_4.gif "")
+![](./asset/vid_4_short.gif "")
 
 ![](./asset/vid_8.gif "")
 
